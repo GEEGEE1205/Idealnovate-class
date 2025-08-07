@@ -68,6 +68,10 @@ In this section of the training, I was introduced to fundamental data analysis c
    - Line Charts – Trends over time.
    - Combo Charts – Combining two chart types for dual analysis.
      
+     <img width="1200" height="524" alt="Idealnovate Excel pivot Table" src="https://github.com/user-attachments/assets/aabe628f-a8e9-4d41-b7be-6f9ad770e124" />
+<img width="744" height="734" alt="Idealnovate Excel Dataset 2" src="https://github.com/user-attachments/assets/17567388-379c-4931-b599-82c759f633aa" />
+<img width="1366" height="768" alt="Idealnovate Excel Dataset " src="https://github.com/user-attachments/assets/7e778ef8-7432-425f-8a21-82302352cd0d" />
+
    ![Idealnovate Excel Dashboard](https://github.com/user-attachments/assets/5455f827-5c7c-4023-9d5f-4f076c611c4c)
   
 
