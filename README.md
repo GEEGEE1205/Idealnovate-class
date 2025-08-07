@@ -13,7 +13,7 @@ The training was structured into two major tools:
 
 ---
 
-- Microsoft Excel (Online Version)
+#### Microsoft Excel (Online Version)
 
 In this section of the training, I was introduced to fundamental data analysis concepts and Excel-based techniques for exploring and visualizing data.
 
@@ -67,6 +67,9 @@ In this section of the training, I was introduced to fundamental data analysis c
    - Pie Charts – Part-to-whole relationships.
    - Line Charts – Trends over time.
    - Combo Charts – Combining two chart types for dual analysis.
+     
+   ![Idealnovate Excel Dashboard](https://github.com/user-attachments/assets/5455f827-5c7c-4023-9d5f-4f076c611c4c)
+  
 
 ---
 
@@ -148,3 +151,6 @@ This training marked a major step in my data analysis journey. It gave me hands-
 
 Feel free to check out my other projects or connect with me on http://linkedin.com/in/kolapo-ilerioluwa-830530246 to explore more about my journey in data analytics.
 
+<img width="1059" height="607" alt="Idealnovate powerbi dataset" src="https://github.com/user-attachments/assets/6072be43-c9aa-4130-9f1b-27f4ad11e4cf" />
+<img width="498" height="644" alt="Idealnovate powerbi dataset 2" src="https://github.com/user-attachments/assets/c28592ea-0bdd-490c-adb6-0bab1312cc33" />
+<img width="1035" height="499" alt="IdealNovate Grade Dashboard" src="https://github.com/user-attachments/assets/c274ddc9-f683-4ee4-b6e3-efd15015146a" />
